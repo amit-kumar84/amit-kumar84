@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BzbSyE3tfjGpuWXkHd0lwyzP6GekKUiB/view?usp=drivesdk](https://drive.google.com/file/d/1BzbSyE3tfjGpuWXkHd0lwyzP6GekKUiB/view?usp=drivesdk)
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am funny😉🙃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

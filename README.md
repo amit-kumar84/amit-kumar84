@@ -11,7 +11,7 @@
 - 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1BzbSyE3tfjGpuWXkHd0lwyzP6GekKUiB/view?usp=drivesdk)
 
 
-<a href="https://drive.google.com/file/d/1BzbSyE3tfjGpuWXkHd0lwyzP6GekKUiB/view?usp=drivesdk" target="blank"><img align="center" src="https://images.app.goo.gl/6iKu9pMxD7BGBzzA9" alt="amitkumar" height="30" width="40" /></a>
+<a href="https://drive.google.com/file/d/1BzbSyE3tfjGpuWXkHd0lwyzP6GekKUiB/view?usp=drivesdk" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FhwTRwwo_resume-builder-icon-purchase-gif-transparent-hd-png%2F&psig=AOvVaw3YU_pFFjXsXlLXg8CWUegx&ust=1704237257170000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMD5o9aovYMDFQAAAAAdAAAAABAD" alt="amitkumar" height="30" width="40" /></a>
 
 - ⚡ Fun fact **I am funny😉🙃**
 

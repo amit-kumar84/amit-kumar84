@@ -10,6 +10,9 @@
 
 - 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1BzbSyE3tfjGpuWXkHd0lwyzP6GekKUiB/view?usp=drivesdk)
 
+
+<a href="https://drive.google.com/file/d/1BzbSyE3tfjGpuWXkHd0lwyzP6GekKUiB/view?usp=drivesdk" target="blank"><img align="center" src="https://images.app.goo.gl/6iKu9pMxD7BGBzzA9" alt="amitkumar" height="30" width="40" /></a>
+
 - ⚡ Fun fact **I am funny😉🙃**
 
 <h3 align="left">Connect with me:</h3>

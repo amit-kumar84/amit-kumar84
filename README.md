@@ -1,12 +1,12 @@
 ![logo](https://github.com/Amit-Kumar84/Amit-Kumar84/blob/main/Black%20Modern%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+<h3 align="center">A passionate Embidded System Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-kumar84&label=Profile%20views&color=0e75b6&style=flat" alt="amit-kumar84" /> </p>
 
-- 📫 How to reach me **rajputdevloper@gmail.com**
+- 📫 How to reach me **kumaramit812670@gmail.com**
 
 - 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1BzbSyE3tfjGpuWXkHd0lwyzP6GekKUiB/view?usp=drivesdk)
 

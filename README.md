@@ -1,4 +1,4 @@
-![logo](https://github.com/amit-kumar84/amit-kumar84/blob/main/Black%20Modern%20Minimalist%20Profile%20LinkedIn%20Banner.mp4)
+![logo](https://github.com/amit-kumar84/amit-kumar84/blob/77d7950da219117faf09a18d9a2406f467df5868/Black%20Modern%20Minimalist%20Profile%20LinkedIn%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">A passionate Embedded System Engineer from India</h3>
 

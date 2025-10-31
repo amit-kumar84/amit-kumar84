@@ -95,10 +95,6 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🌡️ **Smart Home IoT System**
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
@@ -116,9 +112,7 @@ A complete home automation system enabling remote control and monitoring of hous
 
 🔗 **[View Repository](https://github.com/amit-kumar84/smart-home-iot)** | **[Live Demo](https://github.com/amit-kumar84/smart-home-iot#demo)**
 
-
-</td>
-<td width="50%">
+---
 
 ### 🚗 **Vehicle Tracking System with Geofencing**
 ![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square)
@@ -136,37 +130,43 @@ Real-time vehicle tracking system with GPS integration, displaying live location
 
 🔗 **[View Repository](https://github.com/amit-kumar84/vehicle-tracker-esp32)** | **[Documentation](https://github.com/amit-kumar84/vehicle-tracker-esp32/wiki)**
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
-### ⚙️ Industrial Automation with MQTT
-![IoT](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
+### 📡 **ESP32 + LoRa Long-Range Sensor Network**
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-019ECD?style=flat-square)
 
-🏭 Industrial monitoring system:
-- Sensor data collection
-- MQTT protocol communication
-- Dashboard visualization
-- Alert management
+**What it does:**  
+Agricultural IoT system using LoRa (Long Range) wireless communication for monitoring soil moisture, temperature, humidity, and light intensity across large farm areas (up to 10km range). Gateway device collects data from multiple sensor nodes and transmits to cloud via WiFi.
 
-</td>
-<td width="50%">
+**Tech Stack:**
+- 🔧 **Hardware:** ESP32 + LoRa SX1278 modules, soil moisture sensors, DHT22, BH1750 light sensor
+- 📡 **Communication:** LoRaWAN protocol, WiFi gateway, MQTT
+- ☁️ **Cloud:** ThingsBoard for data visualization and analytics
+- 💻 **Firmware:** ESP-IDF framework, custom LoRa mesh networking protocol
+- 🔋 **Power:** Deep sleep optimization, solar panel integration
 
-### 💡 Smart Lighting System
-![IoT](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge)
+🔗 **[View Repository](https://github.com/amit-kumar84/esp32-lora-agriculture)** | **[Progress Updates](https://github.com/amit-kumar84/esp32-lora-agriculture/projects)**
 
-💡 Intelligent lighting control:
-- Motion sensor integration
-- Ambient light detection
-- Energy monitoring
-- Scheduled automation
+---
 
-</td>
-</tr>
-</table>
+### ⚙️ **Industrial Automation with Modbus RTU**
+![Status](https://img.shields.io/badge/Status-Deployed-brightgreen?style=flat-square)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Modbus](https://img.shields.io/badge/Modbus-FF6600?style=flat-square)
+
+**What it does:**  
+Industrial sensor monitoring and control system using Modbus RTU protocol for communicating with PLCs and industrial equipment. Features web-based SCADA dashboard for real-time monitoring, data logging, alarm management, and remote control.
+
+**Tech Stack:**
+- 🔧 **Hardware:** STM32F407 microcontroller, RS485 transceiver, industrial sensors
+- 📡 **Communication:** Modbus RTU over RS485, Ethernet (TCP/IP)
+- 🖥️ **Interface:** Node.js + React.js web dashboard, Chart.js for visualization
+- 💻 **Firmware:** STM32CubeIDE, HAL library, custom Modbus slave implementation
+
+🔗 **[View Repository](https://github.com/amit-kumar84/stm32-modbus-industrial)** | **[Case Study](https://github.com/amit-kumar84/stm32-modbus-industrial#case-study)**
+
 
 </div>
 

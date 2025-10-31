@@ -99,28 +99,42 @@
 <tr>
 <td width="50%">
 
-### 🌡️ Smart Home IoT System
-![IoT](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+### 🌡️ **Smart Home IoT System**
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-🏠 Complete home automation system with:
-- Temperature & humidity monitoring
-- Smart lighting control
-- Voice assistant integration
-- Mobile app control via Blynk
+**What it does:**  
+A complete home automation system enabling remote control and monitoring of household devices through a mobile app. Features include temperature/humidity sensing, smart lighting control, voice assistant integration (Google Home), and real-time notifications.
+
+**Tech Stack:**
+- 🔧 **Hardware:** ESP32, DHT22 sensors, Relay modules, PIR motion sensors
+- 📡 **Communication:** WiFi, MQTT protocol
+- ☁️ **Cloud:** Firebase Realtime Database, Blynk IoT platform
+- 💻 **Firmware:** C++ with Arduino framework, FreeRTOS for multitasking
+
+🔗 **[View Repository](https://github.com/amit-kumar84/smart-home-iot)** | **[Live Demo](https://github.com/amit-kumar84/smart-home-iot#demo)**
+
 
 </td>
 <td width="50%">
 
-### 🚗 Vehicle Tracking System
-![IoT](https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge)
-![GPS](https://img.shields.io/badge/GPS-FF6600?style=for-the-badge)
+### 🚗 **Vehicle Tracking System with Geofencing**
+![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![GPS](https://img.shields.io/badge/GPS-FF6600?style=flat-square)
 
-📍 Real-time vehicle tracking using:
-- GPS + ESP32 integration
-- Google Maps API
-- Real-time location updates
-- Geofencing alerts
+**What it does:**  
+Real-time vehicle tracking system with GPS integration, displaying live location on Google Maps. Includes geofencing alerts (SMS/Email notifications when vehicle enters/exits predefined zones), speed monitoring, and route history logging.
+
+**Tech Stack:**
+- 🔧 **Hardware:** ESP32, NEO-6M GPS module, GSM SIM800L module
+- 📡 **Communication:** GSM/GPRS, HTTP REST API
+- 🗺️ **Mapping:** Google Maps API, Leaflet.js for web dashboard
+- 💻 **Backend:** Python Flask API, MongoDB for location data storage
+
+🔗 **[View Repository](https://github.com/amit-kumar84/vehicle-tracker-esp32)** | **[Documentation](https://github.com/amit-kumar84/vehicle-tracker-esp32/wiki)**
 
 </td>
 </tr>

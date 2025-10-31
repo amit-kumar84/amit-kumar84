@@ -190,7 +190,7 @@ Industrial sensor monitoring and control system using Modbus RTU protocol for co
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-kumar84&theme=react-dark&hide_border=true&bg_color=0A0A0A&color=00FFFF&line=A020F0&point=00FFFF&area=true&area_color=A020F0" alt="Activity Graph" width="98%"/>
 
 <!-- Contribution Snake Animation -->
-<img src="https://raw.githubusercontent.com/amit-kumar84/amit-kumar84/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+img alt="github-snake" src="https://raw.githubusercontent.com/amit-kumar84/amit-kumar84/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 <!-- Trophy Stats -->
 <img src="https://github-profile-trophy.vercel.app/?username=amit-kumar84&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=00FFFF&text_color=FFFFFF&icon_color=A020F0" alt="GitHub Trophies" width="98%"/>

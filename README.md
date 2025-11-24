@@ -219,7 +219,7 @@ Industrial sensor monitoring and control system using Modbus RTU protocol for co
 <br>
 
 <!-- Visitor Counter -->
-<img src="https://profile-counter.glitch.me/amit-kumar84/count.svg" alt="Visitor Count"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=amit-kumar84.amit-kumar84" alt="Visitor Count"/>
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=amit-kumar84&label=Profile%20Views&color=A020F0&style=for-the-badge" alt="Profile Views"/>

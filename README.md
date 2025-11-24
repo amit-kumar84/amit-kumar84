@@ -4,8 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,14,20,24&height=100&section=header" width="100%"/>
 
 <!-- Typing Animation Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Amit+Kumar;%F0%9F%A7%A9+Embedded+Systems+%26+IoT+Developer;%F0%9F%92%A1+Innovating+with+Circuits+%26+Code;%E2%9A%99%EF%B8%8F+Passionate+About+Smart+Tech" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=%F0%9F%91%8B+Hi%2C+I'm+Amit+Kumar;%F0%9F%A7%A9+Embedded+Systems+%26+IoT+Developer;%F0%9F%92%A1+Innovating+with+Circuits+%26+Code;%E2%9A%99%EF%B8%8F+Passionate+About+Smart+Tech" alt="Typing SVG" /></a>
 <!-- Animated IoT Rotating Icon -->
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 

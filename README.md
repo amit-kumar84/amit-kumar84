@@ -180,7 +180,7 @@ Industrial sensor monitoring and control system using Modbus RTU protocol for co
 <img src="https://github-readme-stats.vercel.app/api?username=amit-kumar84&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=00FFFF&icon_color=A020F0&text_color=FFFFFF&ring_color=00FFFF" alt="Amit's GitHub Stats" width="48%"/>
 
 <!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=amit-kumar84&theme=radical&hide_border=true&background=0A0A0A&stroke=00FFFF&ring=A020F0&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="48%"/> 
+<img src="https://streak-stats.demolab.com/?user=amit-kumar84&title=Amit%20Kumar%20GitHub%20Streak&theme=radical&hide_border=true&background=0A0A0A&stroke=00FFFF&ring=A020F0&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="48%"/> 
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-kumar84&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" width="48%"/>

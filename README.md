@@ -200,7 +200,7 @@ Industrial sensor monitoring and control system using Modbus RTU protocol for co
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://icon2.cleanpng.com/20240114/wgl/transparent-trophy-emoji-golden-trophy-wooden-pedestal-bowl-sh-golden-trophy-on-wooden-pedestal-with-star-1710923898655.webp" alt="Trophy" width="35" /> Achievements & Certifications
+## <img src="https://github.com/amit-kumar84/amit-kumar84/blob/7d91d06009b3cebd4d4bf132ffceced5315b6220/transparent-trophy-emoji-golden-trophy-wooden-pegolden-trophy.png" alt="Trophy" width="35" /> Achievements & Certifications
 
 <div align="center">
 

@@ -7,11 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=%F0%9F%91%8B+Hi%2C+I'm+Amit+Kumar;%F0%9F%A7%A9+Embedded+Systems+%26+IoT+Developer;%F0%9F%92%A1+Innovating+with+Circuits+%26+Code;%E2%9A%99%EF%B8%8F+Passionate+About+Smart+Tech" alt="Typing SVG" /></a>
 <!-- Animated IoT Rotating Icon -->
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-<p align="left">
-  <a href="https://github.com/sponsors/amit-kumar84">
-    <img src="https://img.shields.io/badge/🚀_Boost_My_Projects-FF6B35?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117&color=FF8C00&label=SPONSOR_NOW" height="48" alt="Boost My Projects"/>
-  </a>
-</p>
+
 </div>
 
 <!-- Glowing Divider -->
@@ -266,6 +262,19 @@ Industrial sensor monitoring and control system using Modbus RTU protocol for co
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Heart" width="35" /> Support My Work
 
 <div align="center">
+## 💖 Support My Open Source Journey
+
+
+<p align="center"
+  <a href="https://github.com/sponsors/amit-kumar84" target="_blank">
+    <img src="https://img.shields.io/badge/❤️_Sponsor_Me-FF1493?style=for-the-badge&logo=heart&logoColor=white&labelColor=0D1117&color=FF69B4"width="48%"  height="48" alt="Sponsor Me"/>
+  </a>
+  <a href="https://ko-fi.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&labelColor=0D1117" width="48%" height="48" alt="Buy Me Coffee"/>
+  </a>
+</p>
+
+Your support helps me create more amazing open-source projects! Every contribution matters. 🚀
 
 If you find my projects helpful or interesting, consider giving them a ⭐!
 
@@ -276,6 +285,7 @@ If you find my projects helpful or interesting, consider giving them a ⭐!
 **"Your star is my motivation to keep innovating!"** ⭐
 
 </div>
+
 
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">

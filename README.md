@@ -8,14 +8,8 @@
 <!-- Animated IoT Rotating Icon -->
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 <p align="left">
-  <a href="https://github.com/sponsors/amit-kumar84" target="_blank">
-    <img src="https://img.shields.io/badge/💖-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white&label=Sponsor&labelColor=0D1117" height="40" alt="Sponsor"/>
-  </a>
-  <a href="https://github.com/amit-kumar84?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/📂-181717?style=for-the-badge&logo=github&logoColor=white&label=Projects&labelColor=0D1117" height="40" alt="Projects"/>
-  </a>
-  <a href="https://github.com/amit-kumar84?tab=stars" target="_blank">
-    <img src="https://img.shields.io/badge/⭐-FFD700?style=for-the-badge&logo=github&logoColor=181717&label=Stars&labelColor=0D1117" height="40" alt="Stars"/>
+  <a href="https://github.com/sponsors/amit-kumar84">
+    <img src="https://img.shields.io/badge/🚀_Boost_My_Projects-FF6B35?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117&color=FF8C00&label=SPONSOR_NOW" height="48" alt="Boost My Projects"/>
   </a>
 </p>
 </div>

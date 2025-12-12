@@ -267,12 +267,14 @@ Industrial sensor monitoring and control system using Modbus RTU protocol for co
 <p align="center">
    <a href="https://github.com/sponsors/amit-kumar84">
     <img src="https://img.shields.io/badge/❤️_Sponsor_Me-FF1493?style=for-the-badge&logo=heart&logoColor=white&labelColor=0D1117&color=C873D1"
-       height="48" alt="Sponsor Me"/>
+      style="height: 40px !important;width: 160px !important;" alt="Sponsor Me"/>
   </a>
   
   <a href="https://ko-fi.com/amitkumar84" target="_blank">
-    <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&labelColor=0D1117"  height="48" alt="Buy Me Coffee"/>
+    <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&labelColor=0D1117" style="height: 40px !important;width: 160px !important;" alt="Buy Me Coffee"/>
   </a>
+  <a href="https://www.buymeacoffee.com/kumaramit8p" target="_blank">
+     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 160px !important;" ></a>
 </p>
 
 Your support helps me create more amazing open-source projects! Every contribution matters. 🚀

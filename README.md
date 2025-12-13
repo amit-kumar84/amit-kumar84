@@ -191,7 +191,7 @@ Industrial sensor monitoring and control system using Modbus RTU protocol for co
 <img src="https://github.com/amit-kumar84/amit-kumar84/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 <!-- Trophy Stats -->
-<img src="https://github-profile-trophy.vercel.app/?username=amit-kumar84&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=00FFFF&text_color=FFFFFF&icon_color=A020F0" alt="GitHub Trophies" width="98%"/>
+<img src="=https://github-profile-trophy-38bvt8ovc-amit-kumars-projects-e0431616.vercel.app/?username=amit-kumar84&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=00FFFF&text_color=FFFFFF&icon_color=A020F0" alt="GitHub Trophies" width="98%"/>
 
 </div>
 

@@ -17,7 +17,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🧩 **I'm a dedicated Embedded Systems & IoT Engineer passionate about bridging the digital and physical worlds through innovative hardware-software solutions. I specialize in developing intelligent systems from sensor nodes to cloud-connected platforms, with expertise across STM32, ESP32, Arduino, and industrial protocols like Modbus.
+🧩 I'm a dedicated Embedded Systems & IoT Engineer passionate about bridging the digital and physical worlds through innovative hardware-software solutions. I specialize in developing intelligent systems from sensor nodes to cloud-connected platforms, with expertise across STM32, ESP32, Arduino, and industrial protocols like Modbus.
 
 🎓 **Education:**
 - 🎓 **Diploma** in Computer Science & Engineering
